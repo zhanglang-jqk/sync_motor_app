@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gyf.barlibrary:barlibrary:2.2.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f09f57ab3fc417de721a60e47f30cf62/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f09f57ab3fc417de721a60e47f30cf62/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f09f57ab3fc417de721a60e47f30cf62/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71d261973299061378bcee6ec48fecd3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71d261973299061378bcee6ec48fecd3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71d261973299061378bcee6ec48fecd3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gyf.barlibrary/barlibrary/2.2.7/294ff555035c386d80b4245cf062bb46f5d05956/barlibrary-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
